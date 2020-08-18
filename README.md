@@ -1,11 +1,11 @@
 # HDRP-reverse-lookup-troubleshooting-guide
 逆引き！HDRPトラブルシューティングガイド
 
+![HDRP image](https://raw.githubusercontent.com/sayachang/HDRP-reverse-lookup-troubleshooting-guide/master/images/HDRP%20image.png "HDRP image")
+
 UnityのHDRPでなんか困った時に見ると役に立つかもしれない逆引き集です。
 
-## もくじ
-
-
+## もくじ  
 
 1. モデルキャラが緑になってるんだけど
 2. 透明にしたいけど光を反射してしまう
